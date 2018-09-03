@@ -2,7 +2,7 @@
 # Name: The name assigned to all of the frontend objects defined in this template.
 name: nodejs-demo
 # Namespace: The OpenShift Namespace where the ImageStream resides.
-namespace: demo
+namespace: operations
 # Memory Limit: Maximum amount of memory the container can use.
 memory_limit: 512Mi
 # Git Repository URL: The URL of the repository with your application source code.
