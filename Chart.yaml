@@ -1,0 +1,11 @@
+
+---
+name: nodejs
+version: 0.1
+description: An example Node.js application with no database. For more information about using this template, including OpenShift considerations, see https://github.com/rguareschi/ocp-charts-nodejs/blob/master/README.md
+keywords:
+- ocp
+- nodejs
+home: https://www.cloud44.io
+sources:
+- https://github.com/rguareschi/ocp-charts-nodejs
